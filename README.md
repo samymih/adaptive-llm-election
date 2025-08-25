@@ -22,13 +22,10 @@ This repository provides the simulation framework, experimental protocols, and a
    git clone https://github.com/samymih/llm-leader-election.git
    cd llm-leader-election
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install dependencies
 3. Run simulations:
    ```bash
-   python run_simulation.py --condition A  # A, B, or C
+   python simulation.py
    ```
 
 ---
@@ -36,9 +33,8 @@ This repository provides the simulation framework, experimental protocols, and a
 ## 📂 Structure
 ```
 .
-├── /simulations    # Core simulation logic
-├── /analysis       # Data analysis and visualization scripts
-├── /results        # Output data and generated figures
+├── writing/  # Research papers and documentation
+├── results.zip # Results that I found
 ├── requirements.txt
 └── README.md
 ```
