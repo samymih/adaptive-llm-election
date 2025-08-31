@@ -1,4 +1,10 @@
+<div align="center">
+
 # Leader Election in Adaptive LLM Agent Groups
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16942091.svg)](https://doi.org/10.5281/zenodo.16942091)
+
+</div>
+
 
 **Simulation and analysis of leader election dynamics in adaptive LLM agent groups (GPT-5, GPT-4, LLaMA-3).**
 
